@@ -158,7 +158,6 @@ for i in range(iteraties):
     accurance = accuracy_score(y_test,prediction)
     accuraatheid.append(accurance)
 print()
-
 print("adaBoost")
 gemiddeldeAcc = (sum(accuraatheid)/(len(accuraatheid)))
 print(f"De gemiddelde accuraatheid is {gemiddeldeAcc}")
