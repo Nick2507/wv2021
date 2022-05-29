@@ -1,0 +1,15 @@
+gemiddelde haskel last 3 years
+0.621805792
+resultaat modelen
+De gemiddelde accuraatheid van decision tree
+0.6150408163265256
+gemiddelde accuraatheid logistische regressie
+0.6387074829931971
+De gemiddelde accuraatheid van random forest
+0.6739325842696628
+De gemiddelde accuraatheid van extra tree
+0.6824719101123597
+De gemiddelde accuraatheid van ADA BOOST
+0.6647191011235951
+De gemiddelde accuraatheid van gradient BOOST
+0.6625842696629215

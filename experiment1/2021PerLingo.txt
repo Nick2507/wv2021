@@ -1,0 +1,53 @@
+VIF OK bij 2021_prolog
+
+
+                          Attribute  VIF Scores
+0                 nmbrImportance3Ex    3.898019
+1                 nmbrImportance0Ex    4.707962
+2          nmbrImportance3ExSuccess    4.097996
+3           nmbrImportance3ExPoints    2.774042
+4                averSolSubmDiffAll    3.924699
+5   averSolSubmImportance3DiffRatio    3.129887
+6                         nmbrCheat    2.301390
+7                   nmbrAlmostCheat    4.609556
+8                        nmbrLong_2    4.351470
+9                    avNmbrShort_05    4.326500
+10               avNmbrQuiteLong_15    2.997526
+11                     avNmbrLong_2    4.121159
+12          nmbrSubmissionsLastWeek    4.638267
+13   nmbrSuccessSubmissionsLastWeek    4.267509
+14        avDiffRatioBlokFirstMonth    1.375738
+15   avImportance3SubmBeforExamTime    2.891537
+16            nmbrPointsFirst3Weeks    2.851130
+
+
+Beste bij 2021_prolog
+['nmbrImportance3Ex', 'nmbrImportance0Ex', 'nmbrImportance3ExSuccess', 
+'nmbrImportance3ExPoints', 'averSolSubmDiffAll', 'nmbrSubmissionsLastWeek',
+ 'avImportance3SubmBeforExamTime', 'nmbrPointsFirst3Weeks']
+
+
+VIF OK bij 2021_haskell
+                                     Attribute  VIF Scores
+0                  Tabel (5).nmbrImportance2Ex    3.602070
+1       Tabel (7).nmbrPointsAwardedImportance3    3.769346
+2       Tabel (8).nmbrPointsAwardedImportance2    3.318224
+3           Tabel (11).nmbrSubmissionsLastWeek    4.205262
+4        Tabel (13).nmbrImportance2ExCompleted    3.809911
+5        Tabel (14).nmbrImportance3ExCompleted    3.378355
+6                   Tabel (17).averSolSubmDiff    1.524664
+7         Tabel (23).nmbrSucessTestImportance0    3.045192
+8         Tabel (24).nmbrSucesTestsImportance2    1.817825
+9        Tabel (25).nmbrSuccesTestsImportance3    1.313734
+10             Tabel (27).nmbrPointsLast3Weeks    3.545190
+11  Tabel (31).averSolSubmImportance3DiffRatio    3.176376
+12                        Tabel (34).nmbrCheat    2.425267
+13                 Tabel (35).avTimeBeforeExam    3.727366
+
+beste bij 2021_haskell
+'Tabel (5).nmbrImportance2Ex', 'Tabel (7).nmbrPointsAwardedImportance3',
+ 'Tabel (8).nmbrPointsAwardedImportance2', 'Tabel (11).nmbrSubmissionsLastWeek',
+ 'Tabel (17).averSolSubmDiff', 'Tabel (23).nmbrSucessTestImportance0', 'Tabel (27).nmbrPointsLast3Weeks']
+-> 0.79
+
+

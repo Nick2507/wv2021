@@ -1,0 +1,73 @@
+VIF ok bij Haskell_Last3Years
+
+                               Attribute  VIF Scores
+0                         av_errorLength    2.974124
+1                           av_DiffRatio    2.155697
+2                  av_CompletedPrevYears    1.947284
+3     av_StyleLengthCompletedImportance2    2.700206
+4   av_CompletedImportance2SubsDiffRatio    1.728649
+5             nb_Importance2SuccessTests    3.908280
+6     av_StyleLengthCompletedImportance3    3.100735
+7       av_Completed'Extra'SubsDiffRatio    4.458081
+8            nb_PointsFirst2WeeksHaskell    2.511701
+9             nb_PointsLast2WeeksHaskell    1.903257
+10                      avdiffDeadline.1    2.625171
+11              nmbrCompleteDecemberSubs    3.130629
+12                       nmbrJanuarySubs    3.906590
+13                  nmbMorningSubsOnTIme    2.971142
+14                     nmbrCheatOnTime.1    2.536051
+15          nmbMorningubsOnTImeCompleted    2.701191
+16         nmbNightSubsOnTImeCompleted.1    2.640382
+17                 nbMorningCompleteSubs    3.747894
+18                          nmbNightSubs    3.286472
+19                       nmbrOctoberSubs    3.584291
+20                        avNmbrShort_05    3.053796
+21                  avNmbrQuiteShort_075    2.205377
+22                    avNmbrQuiteLong_15    1.479335
+23                          avNmbrLong_2    3.074989
+24                  avNmbrAroundSol_0.25    2.661908
+25      avStyleLengthCompltedSubsJanuary    3.525054
+26      avStyleLengthCompltedSubsOctober    1.817006
+
+Beste bij Haskell_Last3Years
+
+['av_DiffRatio', 'nb_Importance2SuccessTests', 'avdiffDeadline.1',
+ 'nmbrCompleteDecemberSubs', 'nmbrJanuarySubs', 'nmbrCheatOnTime.1',
+ 'nmbMorningubsOnTImeCompleted', 'nmbNightSubsOnTImeCompleted.1', 'nbMorningCompleteSubs',
+ 'nmbNightSubs', 'nmbrOctoberSubs', 'avNmbrAroundSol_0.25', 'avStyleLengthCompltedSubsOctober']
+-> 0.81
+
+VIF ok bij Prolog_Last3Years
+
+                           Attribute  VIF Scores
+0                      av_ErrorLength    3.311465
+1                         av_MockSubs    3.434847
+2          nb_CompleteImportance3Subs    2.736009
+3     av_CompleteImportance3DiffRatio    2.157150
+4   nb_JanuaryImportance3SuccessTests    3.375776
+5                    avdiffDeadline.1    2.433405
+6            nmbrCompleteDecemberSubs    3.026644
+7                     nmbrJanuarySubs    4.587437
+8                nmbMorningSubsOnTIme    2.890216
+9                  nmbNightSubsOnTIme    2.206718
+10                  nmbrCheatOnTime.1    2.451004
+11     nmbMorningubsOnTImeCompleted.1    2.656284
+12        nmbDaySubsOnTImeCompleted.1    3.808921
+13              nbMorningCompleteSubs    3.379772
+14                nbNightCompleteSubs    2.488364
+15                    nmbrOctoberSubs    3.611333
+16                     avNmbrShort_05    2.854791
+17               avNmbrQuiteShort_075    1.989626
+18                 avNmbrQuiteLong_15    1.552256
+19                       avNmbrLong_2    2.794837
+20               avNmbrAroundSol_0.25    2.214094
+21   avStyleLengthCompltedSubsJanuary    1.762290
+22   avStyleLengthCompltedSubsOctober    1.913264
+
+
+Beste bij Prolog_Last3Years
+['av_MockSubs', 'nb_CompleteImportance3Subs', 'av_CompleteImportance3DiffRatio', 
+'avdiffDeadline.1', 'nmbrCheatOnTime.1', 'nmbDaySubsOnTImeCompleted.1', 'nbMorningCompleteSubs', 
+'nbNightCompleteSubs', 'nmbrOctoberSubs', 'avNmbrShort_05', 'avNmbrAroundSol_0.25']
+
+-> 0.80 :)

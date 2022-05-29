@@ -1,0 +1,210 @@
+VIF OK bij ALLyearsAllLingos
+
+                           Attribute  VIF Scores
+0                    avDiffratioAlll    4.524203
+1               avDiffratioCompleted    3.176438
+2                   avdiffDeadline.1    2.132312
+3           nmbrCompleteDecemberSubs    2.896685
+4                    nmbrJanuarySubs    2.490056
+5               nmbMorningSubsOnTIme    2.466025
+6                 nmbNightSubsOnTIme    3.629431
+7                        nmbrCheat.1    4.018073
+8                  nmbrCheatOnTime.1    2.660711
+9       nmbMorningubsOnTImeCompleted    2.357749
+10     nmbNightSubsOnTImeCompleted.1    3.835119
+11             nbMorningCompleteSubs    3.066348
+12               nbNightCompleteSubs    2.261018
+13                   nmbrOctoberSubs    2.992452
+14                    avNmbrShort_05    2.710041
+15              avNmbrQuiteShort_075    2.096349
+16                avNmbrQuiteLong_15    1.420524
+17                      avNmbrLong_2    2.089691
+18              avNmbrAroundSol_0.25    2.153728
+19  avStyleLengthCompltedSubsJanuary    2.243434
+20  avStyleLengthCompltedSubsOctober    1.664493
+21                     avStyleLength    4.499443
+
+
+Beste van AllyearsAllLingos
+
+['avDiffratioCompleted', 'avdiffDeadline.1', 'nmbrCompleteDecemberSubs', 
+'nmbMorningSubsOnTIme', 'nmbrCheat.1', 'nmbMorningubsOnTImeCompleted', 
+'nmbNightSubsOnTImeCompleted.1', 'nbNightCompleteSubs', 'avNmbrShort_05', 
+'avNmbrAroundSol_0.25', 'avStyleLengthCompltedSubsOctober']
+
+-> 0.68
+VIF OK bij 2017_fromALLyearsAllLingos
+
+                           Attribute  VIF Scores
+0                   nmbrDecemberSubs    3.445093
+1            nmbrCompleteJanuarySubs    3.180504
+2               nmbMorningSubsOnTIme    4.725870
+3                 nmbNightSubsOnTIme    1.879121
+4                        nmbrCheat.1    2.911385
+5                  nmbrCheatOnTime.1    2.733136
+6     nmbMorningubsOnTImeCompleted.1    3.406038
+7                nbNightCompleteSubs    2.260426
+8                      nbMorningSubs    4.248647
+9                    nmbrOctoberSubs    4.575432
+10                    avNmbrShort_05    3.921420
+11              avNmbrQuiteShort_075    3.255221
+12                avNmbrQuiteLong_15    1.651156
+13                      avNmbrLong_2    1.134210
+14              avNmbrAroundSol_0.25    2.011921
+15  avStyleLengthCompltedSubsJanuary    2.473171
+16  avStyleLengthCompltedSubsOctober    1.781680
+17                     avStyleLength    4.771549
+
+
+
+Beste van 2017_fromALLyearsAllLingos
+['nmbrCompleteJanuarySubs', 'nmbMorningSubsOnTIme', 
+'nmbrCheat.1', 'nmbrCheatOnTime.1', 'nbNightCompleteSubs',
+ 'nbMorningSubs', 'avNmbrShort_05', 'avNmbrLong_2', 'avNmbrAroundSol_0.25']
+-> 0.63 :(
+
+
+VIF ok 2018_fromALLyearsAllLingos
+                           Attribute  VIF Scores
+0            nmbrSuccessTestsJanuary    1.615089
+1               nmbMorningSubsOnTIme    2.471585
+2                 nmbNightSubsOnTIme    1.888412
+3                        nmbrCheat.1    3.981113
+4                  nmbrCheatOnTime.1    3.045888
+5     nmbMorningubsOnTImeCompleted.1    2.574052
+6              nbMorningCompleteSubs    3.512870
+7                nbNightCompleteSubs    2.386183
+8            nmbrCompleteOctoberSubs    3.232293
+9                     avNmbrShort_05    4.059102
+10              avNmbrQuiteShort_075    2.723476
+11                avNmbrQuiteLong_15    1.518313
+12                      avNmbrLong_2    1.199531
+13              avNmbrAroundSol_0.25    2.284298
+14  avStyleLengthCompltedSubsJanuary    1.729967
+15  avStyleLengthCompltedSubsOctober    1.754329
+16                     avStyleLength    4.169705
+
+
+Beste van 2018_fromALLyearsAllLingos
+
+['nmbMorningSubsOnTIme', 'nmbNightSubsOnTIme', 'nmbrCheat.1', 
+'nmbrCheatOnTime.1', 'nmbMorningubsOnTImeCompleted.1', 
+'nbMorningCompleteSubs', 'nbNightCompleteSubs', 'avNmbrAroundSol_0.25']
+0.79 :)
+
+
+
+VIF ok 2019_fromALLyearsAllLingos
+                           Attribute  VIF Scores
+0               avDiffratioCompleted    1.709699
+1                    nmbrJanuarySubs    2.067680
+2               nmbMorningSubsOnTIme    4.833086
+3                 nmbNightSubsOnTIme    1.533119
+4                  nmbrCheatOnTime.1    2.213729
+5       nmbMorningubsOnTImeCompleted    4.527623
+6          nmbDaySubsOnTImeCompleted    3.817416
+7              nbMorningCompleteSubs    4.074919
+8                nbNightCompleteSubs    2.194929
+9                    nmbrOctoberSubs    4.050890
+10                    avNmbrShort_05    2.954501
+11              avNmbrQuiteShort_075    4.573478
+12                avNmbrQuiteLong_15    1.988214
+13                      avNmbrLong_2    1.584293
+14              avNmbrAroundSol_0.25    2.334428
+15  avStyleLengthCompltedSubsJanuary    1.655197
+16  avStyleLengthCompltedSubsOctober    2.574530
+
+
+
+Beste van 2019_fromALLyearsAllLingos
+
+['avDiffratioCompleted', 'nmbMorningSubsOnTIme', 'nmbNightSubsOnTIme', 
+'nmbrCheatOnTime.1', 'nmbMorningubsOnTImeCompleted', 
+'nmbDaySubsOnTImeCompleted', 'nbMorningCompleteSubs', 'nbNightCompleteSubs']
+
+-> 0.69 :(
+
+
+
+VIF ok 2020_fromALLyearsAllLingos
+                           Attribute  VIF Scores
+0               avDiffratioCompleted    2.101505
+1                   avdiffDeadline.1    2.832910
+2           nmbrCompleteDecemberSubs    2.981207
+3                    nmbrJanuarySubs    3.399851
+4               nmbMorningSubsOnTIme    2.239326
+5                  nmbrCheatOnTime.1    1.959484
+6     nmbMorningubsOnTImeCompleted.1    1.734957
+7      nmbNightSubsOnTImeCompleted.1    2.396584
+8              nbMorningCompleteSubs    3.296822
+9                nbNightCompleteSubs    2.546981
+10                      nmbNightSubs    4.712154
+11                   nmbrOctoberSubs    2.663036
+12                    avNmbrShort_05    3.108019
+13              avNmbrQuiteShort_075    2.681806
+14                avNmbrQuiteLong_15    1.864684
+15                      avNmbrLong_2    2.918790
+16              avNmbrAroundSol_0.25    2.292780
+17  avStyleLengthCompltedSubsJanuary    2.134406
+18  avStyleLengthCompltedSubsOctober    2.237541
+
+Beste van 2020_fromALLyearsAllLingos
+['avDiffratioCompleted', 'avdiffDeadline.1', 'nmbrCheatOnTime.1', 
+'nmbMorningubsOnTImeCompleted.1', 'nmbNightSubsOnTImeCompleted.1',
+ 'nbNightCompleteSubs', 'avNmbrShort_05', 'avNmbrQuiteShort_075', 
+'avNmbrAroundSol_0.25']
+0.77
+
+VIF ok 2021_fromALLyearsAllLingos
+                           Attribute  VIF Scores
+0               avDiffratioCompleted    1.809047
+1           nmbrCompleteDecemberSubs    3.690587
+2            nmbrSuccessTestsJanuary    3.990908
+3                  nmbrCheatOnTime.1    2.948359
+4       nmbMorningubsOnTImeCompleted    2.076218
+5          nmbDaySubsOnTImeCompleted    4.697266
+6        nmbNightSubsOnTImeCompleted    2.063212
+7              nbMorningCompleteSubs    4.185415
+8                       nmbNightSubs    3.169080
+9                    nmbrOctoberSubs    3.982312
+10                    avNmbrShort_05    2.332751
+11              avNmbrQuiteShort_075    1.823131
+12                avNmbrQuiteLong_15    1.835538
+13                      avNmbrLong_2    1.520627
+14              avNmbrAroundSol_0.25    1.957788
+15  avStyleLengthCompltedSubsJanuary    2.149139
+16  avStyleLengthCompltedSubsOctober    1.813712
+
+Beste van 2021_fromALLyearsAllLingos
+['avDiffratioCompleted', 'nmbrCheatOnTime.1', 'nmbMorningubsOnTImeCompleted', 
+'nmbDaySubsOnTImeCompleted', 'nmbNightSubsOnTImeCompleted', 'nbMorningCompleteSubs', 
+'avNmbrShort_05', 'avNmbrAroundSol_0.25']
+
+-> 0.76
+
+VIF ok 2022_fromALLyearsAllLingos
+                           Attribute  VIF Scores
+0                    avDiffratioAlll    1.893779
+1           nmbrCompleteDecemberSubs    2.781840
+2                    nmbrJanuarySubs    4.033936
+3               nmbMorningSubsOnTIme    2.544065
+4                 nmbNightSubsOnTIme    4.860842
+5                  nmbrCheatOnTime.1    2.598186
+6       nmbMorningubsOnTImeCompleted    2.662351
+7          nmbDaySubsOnTImeCompleted    4.001341
+8      nmbNightSubsOnTImeCompleted.1    4.536048
+9              nbMorningCompleteSubs    3.509324
+10                      nmbNightSubs    4.336787
+11                   nmbrOctoberSubs    4.819188
+12                    avNmbrShort_05    3.687186
+13              avNmbrQuiteShort_075    2.621511
+14                avNmbrQuiteLong_15    1.388549
+15                      avNmbrLong_2    1.587807
+16              avNmbrAroundSol_0.25    2.482090
+17  avStyleLengthCompltedSubsJanuary    2.330369
+18  avStyleLengthCompltedSubsOctober    1.824801
+
+Beste van 2022_fromALLyearsAllLingos
+
+['avDiffratioAlll', 'nmbMorningSubsOnTIme', 'nmbMorningubsOnTImeCompleted', 'nmbDaySubsOnTImeCompleted', 
+'nbMorningCompleteSubs', 'nmbrOctoberSubs', 'avNmbrShort_05', 'avNmbrQuiteShort_075', 'avNmbrAroundSol_0.25']

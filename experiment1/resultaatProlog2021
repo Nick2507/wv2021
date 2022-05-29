@@ -1,0 +1,68 @@
+Prolog 2021 file is 2021_prolog.csv
+
+Decision tree
+De gemiddelde accuraatheid is 0.5588799999999988
+De maximale accuraatheid 0.8
+De minimale accuraatheid 0.24
+De standaardafweiking 0.09214958274457881
+
+Logistische regresie
+De gemiddelde accuraatheid is 0.57288
+De maximale accuraatheid 0.8
+De minimale accuraatheid 0.28
+De standaardafweiking 0.08670239673734507
+
+Logistische regresie vlif oke
+De gemiddelde accuraatheid is 0.5130399999999994
+De maximale accuraatheid 0.76
+De minimale accuraatheid 0.24
+De standaardafweiking 0.08548893729600338
+
+Random Forest
+De gemiddelde accuraatheid is 0.6561600000000001
+De maximale accuraatheid 0.88
+De minimale accuraatheid 0.32
+De standaardafweiking 0.08690946093492936
+
+Random forest vlif oke
+De gemiddelde accuraatheid is 0.6246400000000001
+De maximale accuraatheid 0.84
+De minimale accuraatheid 0.36
+De standaardafweiking 0.08620481657076962
+
+Extra tree
+De gemiddelde accuraatheid is 0.6484000000000011
+De maximale accuraatheid 0.92
+De minimale accuraatheid 0.28
+De standaardafweiking 0.08776240653035908
+
+Extra tree vlif oke
+De gemiddelde accuraatheid is 0.6227999999999994
+De maximale accuraatheid 0.92
+De minimale accuraatheid 0.4
+De standaardafweiking 0.08387705288098757
+
+adaBoost
+De gemiddelde accuraatheid is 0.612720000000001
+De maximale accuraatheid 0.8
+De minimale accuraatheid 0.36
+De standaardafweiking 0.08631918442617506
+
+adaBoost vlif oke
+De gemiddelde accuraatheid is 0.5787199999999997
+De maximale accuraatheid 0.84
+De minimale accuraatheid 0.32
+De standaardafweiking 0.09289112767105376
+
+GradientBoosting
+De gemiddelde accuraatheid is 0.6088000000000002
+De maximale accuraatheid 0.84
+De minimale accuraatheid 0.32
+De standaardafweiking 0.0889368315154076
+
+Gradient boosting vlif oke
+De gemiddelde accuraatheid is 0.6021600000000003
+De maximale accuraatheid 0.88
+De minimale accuraatheid 0.36
+De standaardafweiking 0.08648777023371582
+
