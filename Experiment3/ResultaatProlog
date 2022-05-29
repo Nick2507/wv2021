@@ -1,0 +1,67 @@
+Prolog laatste 3 jaar file is Prolog_Last3Years.csv
+
+Decision tree
+De gemiddelde accuraatheid is 0.6206470588235291
+De maximale accuraatheid 0.7294117647058823
+De minimale accuraatheid 0.4823529411764706
+De standaardafweiking 0.05033448672265582
+
+Logistische regresie
+De gemiddelde accuraatheid is 0.5938823529411765
+De maximale accuraatheid 0.7529411764705882
+De minimale accuraatheid 0.4470588235294118
+De standaardafweiking 0.04804784236268409
+
+Logistische regresie vlif oke
+De gemiddelde accuraatheid is 0.6761764705882346
+De maximale accuraatheid 0.8117647058823529
+De minimale accuraatheid 0.5529411764705883
+De standaardafweiking 0.04595676469741191
+
+Random Forest
+De gemiddelde accuraatheid is 0.7047058823529412
+De maximale accuraatheid 0.8117647058823529
+De minimale accuraatheid 0.5529411764705883
+De standaardafweiking 0.04489125653726804
+
+Random forest vlif oke
+De gemiddelde accuraatheid is 0.66
+De maximale accuraatheid 0.788235294117647
+De minimale accuraatheid 0.5529411764705883
+De standaardafweiking 0.0487490573061192
+
+Extra tree
+De gemiddelde accuraatheid is 0.7027058823529407
+De maximale accuraatheid 0.8
+De minimale accuraatheid 0.5764705882352941
+De standaardafweiking 0.04133934175178157
+
+Extra tree vlif oke
+De gemiddelde accuraatheid is 0.6692352941176464
+De maximale accuraatheid 0.8
+De minimale accuraatheid 0.5529411764705883
+De standaardafweiking 0.04452249538329704
+
+adaBoost
+De gemiddelde accuraatheid is 0.6788823529411755
+De maximale accuraatheid 0.788235294117647
+De minimale accuraatheid 0.5647058823529412
+De standaardafweiking 0.043621484500583
+
+adaBoost vlif oke
+De gemiddelde accuraatheid is 0.6726470588235292
+De maximale accuraatheid 0.8235294117647058
+De minimale accuraatheid 0.5411764705882353
+De standaardafweiking 0.045677332289890855
+
+GradientBoosting
+De gemiddelde accuraatheid is 0.6871764705882348
+De maximale accuraatheid 0.788235294117647
+De minimale accuraatheid 0.5764705882352941
+De standaardafweiking 0.043691114597932734
+
+Gradient boosting vlif oke
+De gemiddelde accuraatheid is 0.679235294117647
+De maximale accuraatheid 0.788235294117647
+De minimale accuraatheid 0.5647058823529412
+De standaardafweiking 0.046205161562506224
