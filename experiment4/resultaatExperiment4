@@ -1,0 +1,67 @@
+Alle jaren, file is AllyearsAllLingos.csv
+
+Decision tree
+De gemiddelde accuraatheid is 0.5618560606060603
+De maximale accuraatheid 0.6818181818181818
+De minimale accuraatheid 0.4621212121212121
+De standaardafweiking 0.043728448056402476
+
+Logistische regresie
+De gemiddelde accuraatheid is 0.536628787878788
+De maximale accuraatheid 0.6212121212121212
+De minimale accuraatheid 0.3560606060606061
+De standaardafweiking 0.039927746238061765
+
+Logistische regresie vlif oke
+De gemiddelde accuraatheid is 0.5860606060606057
+De maximale accuraatheid 0.6818181818181818
+De minimale accuraatheid 0.4696969696969697
+De standaardafweiking 0.03563055250496403
+
+Random Forest
+De gemiddelde accuraatheid is 0.6449621212121214
+De maximale accuraatheid 0.7424242424242424
+De minimale accuraatheid 0.553030303030303
+De standaardafweiking 0.036274175783082445
+
+Random forest vlif oke
+De gemiddelde accuraatheid is 0.5734090909090908
+De maximale accuraatheid 0.6590909090909091
+De minimale accuraatheid 0.48484848484848486
+De standaardafweiking 0.0379951999046499
+
+Extra tree
+De gemiddelde accuraatheid is 0.6476136363636366
+De maximale accuraatheid 0.75
+De minimale accuraatheid 0.5378787878787878
+De standaardafweiking 0.035782745860059174
+
+Extra tree vlif oke
+De gemiddelde accuraatheid is 0.5720075757575755
+De maximale accuraatheid 0.6590909090909091
+De minimale accuraatheid 0.44696969696969696
+De standaardafweiking 0.035974859060034545
+
+adaBoost
+De gemiddelde accuraatheid is 0.6054924242424238
+De maximale accuraatheid 0.7045454545454546
+De minimale accuraatheid 0.5075757575757576
+De standaardafweiking 0.03719023808124848
+
+adaBoost vlif oke
+De gemiddelde accuraatheid is 0.5525378787878785
+De maximale accuraatheid 0.6439393939393939
+De minimale accuraatheid 0.44696969696969696
+De standaardafweiking 0.04001604863428166
+
+GradientBoosting
+De gemiddelde accuraatheid is 0.6268560606060606
+De maximale accuraatheid 0.7121212121212122
+De minimale accuraatheid 0.5303030303030303
+De standaardafweiking 0.0358309908581517
+
+Gradient boosting vlif oke
+De gemiddelde accuraatheid is 0.5622727272727271
+De maximale accuraatheid 0.6590909090909091
+De minimale accuraatheid 0.45454545454545453
+De standaardafweiking 0.03698304528023867
