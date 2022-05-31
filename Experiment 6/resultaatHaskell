@@ -1,0 +1,67 @@
+Haskell file is Haskell1920_EnkelInformatica.csv
+
+Decision tree
+De gemiddelde accuraatheid is 0.7346666666666665
+De maximale accuraatheid 1.0
+De minimale accuraatheid 0.4166666666666667
+De standaardafweiking 0.1289418473576364
+
+Logistische regresie
+De gemiddelde accuraatheid is 0.8223333333333328
+De maximale accuraatheid 1.0
+De minimale accuraatheid 0.3333333333333333
+De standaardafweiking 0.10496613210406897
+
+Logistische regresie vlif oke
+De gemiddelde accuraatheid is 0.7654999999999998
+De maximale accuraatheid 1.0
+De minimale accuraatheid 0.4166666666666667
+De standaardafweiking 0.09872112798743292
+
+Random Forest
+De gemiddelde accuraatheid is 0.7844999999999993
+De maximale accuraatheid 1.0
+De minimale accuraatheid 0.25
+De standaardafweiking 0.09841112741961631
+
+Random forest vlif oke
+De gemiddelde accuraatheid is 0.7556666666666667
+De maximale accuraatheid 1.0
+De minimale accuraatheid 0.4166666666666667
+De standaardafweiking 0.10080839912097268
+
+Extra tree
+De gemiddelde accuraatheid is 0.7884999999999988
+De maximale accuraatheid 1.0
+De minimale accuraatheid 0.5
+De standaardafweiking 0.09054449489370138
+
+Extra tree vlif oke
+De gemiddelde accuraatheid is 0.7556666666666662
+De maximale accuraatheid 1.0
+De minimale accuraatheid 0.4166666666666667
+De standaardafweiking 0.09586506720965211
+
+adaBoost
+De gemiddelde accuraatheid is 0.7619999999999998
+De maximale accuraatheid 1.0
+De minimale accuraatheid 0.4166666666666667
+De standaardafweiking 0.11350673009904642
+
+adaBoost vlif oke
+De gemiddelde accuraatheid is 0.6980000000000002
+De maximale accuraatheid 0.9166666666666666
+De minimale accuraatheid 0.3333333333333333
+De standaardafweiking 0.10745231500530794
+
+GradientBoosting
+De gemiddelde accuraatheid is 0.7223333333333333
+De maximale accuraatheid 1.0
+De minimale accuraatheid 0.3333333333333333
+De standaardafweiking 0.12817566071606548
+
+Gradient boosting vlif oke
+De gemiddelde accuraatheid is 0.6976666666666672
+De maximale accuraatheid 1.0
+De minimale accuraatheid 0.4166666666666667
+De standaardafweiking 0.103870111196629
