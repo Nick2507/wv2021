@@ -15,9 +15,12 @@ y = data['BinaryScore']
 print(f"Haskell 2021 file is {inputFile}")
 print()
 
-vlifOK = ['Tabel (5).nmbrImportance2Ex', 'Tabel (7).nmbrPointsAwardedImportance3',
- 'Tabel (8).nmbrPointsAwardedImportance2', 'Tabel (11).nmbrSubmissionsLastWeek',
- 'Tabel (17).averSolSubmDiff', 'Tabel (23).nmbrSucessTestImportance0', 'Tabel (27).nmbrPointsLast3Weeks']
+vlifOK = ['av_CompletedPrevYears', 'av_StyleLengthCompletedImportance2', 'av_CompletedImportance2SubsDiffRatio',
+'nb_Importance2SuccessTests', 'av_StyleLengthCompletedImportance3', "nb_completed'Extra'Subs", 'nb_PointsLast2WeeksHaskell',  \
+'nmbrCompleteDecemberSubs', 'nmbrSuccessTestsJanuary', 'nmbNightSubsOnTIme' ,'nmbrCheatOnTime.1', 'nmbMorningubsOnTImeCompleted.1',
+'nbMorningCompleteSubs',  'nbNightCompleteSubs', 'nmbrOctoberSubs', 'avNmbrShort_05', \
+'avNmbrQuiteShort_075', 'avNmbrQuiteLong_15', 'avNmbrLong_2', 'avNmbrAroundSol_0.25',  'avStyleLengthCompltedSubsJanuary',\
+'avStyleLengthCompltedSubsOctober']
 Xvlif = data[vlifOK]
 
 def standaarAfwijking(list):

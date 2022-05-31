@@ -1,53 +1,63 @@
-VIF OK bij 2021_prolog
+VIF OK bij Haskell_2021
+
+                               Attribute  VIF Scores
+0                  av_CompletedPrevYears    2.912796
+1     av_StyleLengthCompletedImportance2    2.733424
+2   av_CompletedImportance2SubsDiffRatio    1.795274
+3             nb_Importance2SuccessTests    4.290246
+4     av_StyleLengthCompletedImportance3    3.627118
+5                nb_completed'Extra'Subs    4.064479
+6             nb_PointsLast2WeeksHaskell    3.184512
+7               nmbrCompleteDecemberSubs    3.713996
+8                nmbrSuccessTestsJanuary    4.065625
+9                     nmbNightSubsOnTIme    2.891626
+10                     nmbrCheatOnTime.1    3.487399
+11        nmbMorningubsOnTImeCompleted.1    1.687844
+12                 nbMorningCompleteSubs    4.130040
+13                   nbNightCompleteSubs    4.389866
+14                       nmbrOctoberSubs    3.047712
+15                        avNmbrShort_05    2.241327
+16                  avNmbrQuiteShort_075    1.737377
+17                    avNmbrQuiteLong_15    2.246020
+18                          avNmbrLong_2    1.615492
+19                  avNmbrAroundSol_0.25    2.018812
+20      avStyleLengthCompltedSubsJanuary    3.199951
+21      avStyleLengthCompltedSubsOctober    1.684110
+
+Beste bij Haskell_2021
+['av_CompletedImportance2SubsDiffRatio', 'nb_Importance2SuccessTests', 
+"nb_completed'Extra'Subs", 'nb_PointsLast2WeeksHaskell', 'nmbNightSubsOnTIme',
+ 'nmbrCheatOnTime.1', 'nmbMorningubsOnTImeCompleted.1', 'nbMorningCompleteSubs', 
+'nbNightCompleteSubs', 'nmbrOctoberSubs', 'avStyleLengthCompltedSubsJanuary']
+
+VIF OK bij Prolog_2021
+
+                            Attribute  VIF Scores
+0                      av_ErrorLength    3.959602
+1                         av_MockSubs    4.576082
+2          nb_CompleteImportance3Subs    4.450393
+3     av_CompleteImportance3DiffRatio    3.608107
+4   nb_JanuaryImportance3SuccessTests    3.445508
+5            nmbrCompleteDecemberSubs    3.775777
+6                         nmbrCheat.1    4.424149
+7                   nmbrCheatOnTime.1    3.268770
+8        nmbMorningubsOnTImeCompleted    1.749575
+9         nmbNightSubsOnTImeCompleted    1.720775
+10              nbMorningCompleteSubs    4.634602
+11                       nmbNightSubs    2.470364
+12                    nmbrOctoberSubs    3.201550
+13                     avNmbrShort_05    2.888982
+14               avNmbrQuiteShort_075    1.885260
+15                 avNmbrQuiteLong_15    2.534730
+16                       avNmbrLong_2    1.867581
+17               avNmbrAroundSol_0.25    2.592518
+18   avStyleLengthCompltedSubsJanuary    2.063117
+19   avStyleLengthCompltedSubsOctober    1.906186
 
 
-                          Attribute  VIF Scores
-0                 nmbrImportance3Ex    3.898019
-1                 nmbrImportance0Ex    4.707962
-2          nmbrImportance3ExSuccess    4.097996
-3           nmbrImportance3ExPoints    2.774042
-4                averSolSubmDiffAll    3.924699
-5   averSolSubmImportance3DiffRatio    3.129887
-6                         nmbrCheat    2.301390
-7                   nmbrAlmostCheat    4.609556
-8                        nmbrLong_2    4.351470
-9                    avNmbrShort_05    4.326500
-10               avNmbrQuiteLong_15    2.997526
-11                     avNmbrLong_2    4.121159
-12          nmbrSubmissionsLastWeek    4.638267
-13   nmbrSuccessSubmissionsLastWeek    4.267509
-14        avDiffRatioBlokFirstMonth    1.375738
-15   avImportance3SubmBeforExamTime    2.891537
-16            nmbrPointsFirst3Weeks    2.851130
+Beste bij Prolog_2021
 
-
-Beste bij 2021_prolog
-['nmbrImportance3Ex', 'nmbrImportance0Ex', 'nmbrImportance3ExSuccess', 
-'nmbrImportance3ExPoints', 'averSolSubmDiffAll', 'nmbrSubmissionsLastWeek',
- 'avImportance3SubmBeforExamTime', 'nmbrPointsFirst3Weeks']
-
-
-VIF OK bij 2021_haskell
-                                     Attribute  VIF Scores
-0                  Tabel (5).nmbrImportance2Ex    3.602070
-1       Tabel (7).nmbrPointsAwardedImportance3    3.769346
-2       Tabel (8).nmbrPointsAwardedImportance2    3.318224
-3           Tabel (11).nmbrSubmissionsLastWeek    4.205262
-4        Tabel (13).nmbrImportance2ExCompleted    3.809911
-5        Tabel (14).nmbrImportance3ExCompleted    3.378355
-6                   Tabel (17).averSolSubmDiff    1.524664
-7         Tabel (23).nmbrSucessTestImportance0    3.045192
-8         Tabel (24).nmbrSucesTestsImportance2    1.817825
-9        Tabel (25).nmbrSuccesTestsImportance3    1.313734
-10             Tabel (27).nmbrPointsLast3Weeks    3.545190
-11  Tabel (31).averSolSubmImportance3DiffRatio    3.176376
-12                        Tabel (34).nmbrCheat    2.425267
-13                 Tabel (35).avTimeBeforeExam    3.727366
-
-beste bij 2021_haskell
-'Tabel (5).nmbrImportance2Ex', 'Tabel (7).nmbrPointsAwardedImportance3',
- 'Tabel (8).nmbrPointsAwardedImportance2', 'Tabel (11).nmbrSubmissionsLastWeek',
- 'Tabel (17).averSolSubmDiff', 'Tabel (23).nmbrSucessTestImportance0', 'Tabel (27).nmbrPointsLast3Weeks']
--> 0.79
-
+['av_MockSubs', 'nb_CompleteImportance3Subs', 'av_CompleteImportance3DiffRatio',
+ 'nb_JanuaryImportance3SuccessTests', 'nmbrCompleteDecemberSubs', 'nmbrCheat.1', 
+'nmbrCheatOnTime.1', 'nmbMorningubsOnTImeCompleted', 'nmbNightSubsOnTImeCompleted', 'nbMorningCompleteSubs']
 

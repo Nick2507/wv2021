@@ -15,9 +15,17 @@ y = data['BinaryScore']
 print(f"Prolog 2021 file is {inputFile}")
 print()
 
-vlifOK = ['nmbrImportance3Ex', 'nmbrImportance0Ex', 'nmbrImportance3ExSuccess',
-'nmbrImportance3ExPoints', 'averSolSubmDiffAll', 'nmbrSubmissionsLastWeek',
- 'avImportance3SubmBeforExamTime', 'nmbrPointsFirst3Weeks']
+vlifOK = ['av_ErrorLength', 'av_MockSubs',
+          'nb_CompleteImportance3Subs',
+          'av_CompleteImportance3DiffRatio',
+          'nb_JanuaryImportance3SuccessTests',
+            'nmbrCompleteDecemberSubs',
+                  'nmbrCheat.1',
+         'nmbrCheatOnTime.1', 'nmbMorningubsOnTImeCompleted',
+          'nmbNightSubsOnTImeCompleted',
+         'nbMorningCompleteSubs',
+          'nmbNightSubs', 'nmbrOctoberSubs', 'avNmbrShort_05','avNmbrQuiteShort_075','avNmbrQuiteLong_15',
+          'avNmbrLong_2', 'avNmbrAroundSol_0.25', 'avStyleLengthCompltedSubsJanuary', 'avStyleLengthCompltedSubsOctober']
 Xvlif = data[vlifOK]
 
 def standaarAfwijking(list):
