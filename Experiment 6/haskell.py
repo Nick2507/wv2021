@@ -34,7 +34,7 @@ iteraties = 500
 
 accuraatheid = []
 for i in range(iteraties):
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.25)
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.5)
     model = DecisionTreeClassifier()
     model.fit(X_train, y_train)
     prediction = model.predict(X_test)
@@ -48,28 +48,9 @@ print(f'De maximale accuraatheid {max(accuraatheid)}')
 print(f'De minimale accuraatheid {min(accuraatheid)}')
 print(f"De standaardafweiking {standaarAfwijking(accuraatheid)}")
 
-
-
 accuraatheid = []
 for i in range(iteraties):
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.25)
-    model = linear_model.LogisticRegression()
-    model.fit(X_train, y_train)
-    prediction = model.predict(X_test)
-    accurance = accuracy_score(y_test,prediction)
-    accuraatheid.append(accurance)
-print()
-print("Logistische regresie")
-gemiddeldeAcc = (sum(accuraatheid)/(len(accuraatheid)))
-print(f"De gemiddelde accuraatheid is {gemiddeldeAcc}")
-print(f'De maximale accuraatheid {max(accuraatheid)}')
-print(f'De minimale accuraatheid {min(accuraatheid)}')
-print(f"De standaardafweiking {standaarAfwijking(accuraatheid)}")
-
-
-accuraatheid = []
-for i in range(iteraties):
-    X_train, X_test, y_train, y_test = train_test_split(Xvlif, y, test_size=0.25)
+    X_train, X_test, y_train, y_test = train_test_split(Xvlif, y, test_size=0.5)
     model = linear_model.LogisticRegression()
     model.fit(X_train, y_train)
     prediction = model.predict(X_test)
@@ -86,7 +67,7 @@ print(f"De standaardafweiking {standaarAfwijking(accuraatheid)}")
 
 accuraatheid = []
 for i in range(iteraties):
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.25)
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.5)
     model = RandomForestClassifier()
     model.fit(X_train, y_train)
     prediction = model.predict(X_test)
@@ -100,26 +81,9 @@ print(f'De maximale accuraatheid {max(accuraatheid)}')
 print(f'De minimale accuraatheid {min(accuraatheid)}')
 print(f"De standaardafweiking {standaarAfwijking(accuraatheid)}")
 
-
 accuraatheid = []
 for i in range(iteraties):
-    X_train, X_test, y_train, y_test = train_test_split(Xvlif, y, test_size=0.25)
-    model = RandomForestClassifier()
-    model.fit(X_train, y_train)
-    prediction = model.predict(X_test)
-    accurance = accuracy_score(y_test,prediction)
-    accuraatheid.append(accurance)
-print()
-print("Random forest vlif oke")
-gemiddeldeAcc = (sum(accuraatheid)/(len(accuraatheid)))
-print(f"De gemiddelde accuraatheid is {gemiddeldeAcc}")
-print(f'De maximale accuraatheid {max(accuraatheid)}')
-print(f'De minimale accuraatheid {min(accuraatheid)}')
-print(f"De standaardafweiking {standaarAfwijking(accuraatheid)}")
-
-accuraatheid = []
-for i in range(iteraties):
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.25)
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.5)
     model = ExtraTreesClassifier()
     model.fit(X_train, y_train)
     prediction = model.predict(X_test)
@@ -133,26 +97,9 @@ print(f'De maximale accuraatheid {max(accuraatheid)}')
 print(f'De minimale accuraatheid {min(accuraatheid)}')
 print(f"De standaardafweiking {standaarAfwijking(accuraatheid)}")
 
-
 accuraatheid = []
 for i in range(iteraties):
-    X_train, X_test, y_train, y_test = train_test_split(Xvlif, y, test_size=0.25)
-    model = ExtraTreesClassifier()
-    model.fit(X_train, y_train)
-    prediction = model.predict(X_test)
-    accurance = accuracy_score(y_test,prediction)
-    accuraatheid.append(accurance)
-print()
-print("Extra tree vlif oke")
-gemiddeldeAcc = (sum(accuraatheid)/(len(accuraatheid)))
-print(f"De gemiddelde accuraatheid is {gemiddeldeAcc}")
-print(f'De maximale accuraatheid {max(accuraatheid)}')
-print(f'De minimale accuraatheid {min(accuraatheid)}')
-print(f"De standaardafweiking {standaarAfwijking(accuraatheid)}")
-
-accuraatheid = []
-for i in range(iteraties):
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.25)
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.5)
     model = AdaBoostClassifier()
     model.fit(X_train, y_train)
     prediction = model.predict(X_test)
@@ -166,26 +113,9 @@ print(f'De maximale accuraatheid {max(accuraatheid)}')
 print(f'De minimale accuraatheid {min(accuraatheid)}')
 print(f"De standaardafweiking {standaarAfwijking(accuraatheid)}")
 
-
 accuraatheid = []
 for i in range(iteraties):
-    X_train, X_test, y_train, y_test = train_test_split(Xvlif, y, test_size=0.25)
-    model = AdaBoostClassifier()
-    model.fit(X_train, y_train)
-    prediction = model.predict(X_test)
-    accurance = accuracy_score(y_test,prediction)
-    accuraatheid.append(accurance)
-print()
-print("adaBoost vlif oke")
-gemiddeldeAcc = (sum(accuraatheid)/(len(accuraatheid)))
-print(f"De gemiddelde accuraatheid is {gemiddeldeAcc}")
-print(f'De maximale accuraatheid {max(accuraatheid)}')
-print(f'De minimale accuraatheid {min(accuraatheid)}')
-print(f"De standaardafweiking {standaarAfwijking(accuraatheid)}")
-
-accuraatheid = []
-for i in range(iteraties):
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.25)
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.5)
     model = GradientBoostingClassifier()
     model.fit(X_train, y_train)
     prediction = model.predict(X_test)
@@ -193,23 +123,6 @@ for i in range(iteraties):
     accuraatheid.append(accurance)
 print()
 print("GradientBoosting")
-gemiddeldeAcc = (sum(accuraatheid)/(len(accuraatheid)))
-print(f"De gemiddelde accuraatheid is {gemiddeldeAcc}")
-print(f'De maximale accuraatheid {max(accuraatheid)}')
-print(f'De minimale accuraatheid {min(accuraatheid)}')
-print(f"De standaardafweiking {standaarAfwijking(accuraatheid)}")
-
-
-accuraatheid = []
-for i in range(iteraties):
-    X_train, X_test, y_train, y_test = train_test_split(Xvlif, y, test_size=0.25)
-    model = GradientBoostingClassifier()
-    model.fit(X_train, y_train)
-    prediction = model.predict(X_test)
-    accurance = accuracy_score(y_test,prediction)
-    accuraatheid.append(accurance)
-print()
-print("Gradient boosting vlif oke")
 gemiddeldeAcc = (sum(accuraatheid)/(len(accuraatheid)))
 print(f"De gemiddelde accuraatheid is {gemiddeldeAcc}")
 print(f'De maximale accuraatheid {max(accuraatheid)}')
