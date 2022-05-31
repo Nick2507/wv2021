@@ -1,16 +1,11 @@
 Haskell file is Haskell1920_EnkelInformatica.csv
+TEST SET 25%
 
 Decision tree
 De gemiddelde accuraatheid is 0.7346666666666665
 De maximale accuraatheid 1.0
 De minimale accuraatheid 0.4166666666666667
 De standaardafweiking 0.1289418473576364
-
-Logistische regresie
-De gemiddelde accuraatheid is 0.8223333333333328
-De maximale accuraatheid 1.0
-De minimale accuraatheid 0.3333333333333333
-De standaardafweiking 0.10496613210406897
 
 Logistische regresie vlif oke
 De gemiddelde accuraatheid is 0.7654999999999998
@@ -24,23 +19,11 @@ De maximale accuraatheid 1.0
 De minimale accuraatheid 0.25
 De standaardafweiking 0.09841112741961631
 
-Random forest vlif oke
-De gemiddelde accuraatheid is 0.7556666666666667
-De maximale accuraatheid 1.0
-De minimale accuraatheid 0.4166666666666667
-De standaardafweiking 0.10080839912097268
-
 Extra tree
 De gemiddelde accuraatheid is 0.7884999999999988
 De maximale accuraatheid 1.0
 De minimale accuraatheid 0.5
 De standaardafweiking 0.09054449489370138
-
-Extra tree vlif oke
-De gemiddelde accuraatheid is 0.7556666666666662
-De maximale accuraatheid 1.0
-De minimale accuraatheid 0.4166666666666667
-De standaardafweiking 0.09586506720965211
 
 adaBoost
 De gemiddelde accuraatheid is 0.7619999999999998
@@ -48,20 +31,48 @@ De maximale accuraatheid 1.0
 De minimale accuraatheid 0.4166666666666667
 De standaardafweiking 0.11350673009904642
 
-adaBoost vlif oke
-De gemiddelde accuraatheid is 0.6980000000000002
-De maximale accuraatheid 0.9166666666666666
-De minimale accuraatheid 0.3333333333333333
-De standaardafweiking 0.10745231500530794
-
 GradientBoosting
 De gemiddelde accuraatheid is 0.7223333333333333
 De maximale accuraatheid 1.0
 De minimale accuraatheid 0.3333333333333333
 De standaardafweiking 0.12817566071606548
 
-Gradient boosting vlif oke
-De gemiddelde accuraatheid is 0.6976666666666672
-De maximale accuraatheid 1.0
-De minimale accuraatheid 0.4166666666666667
-De standaardafweiking 0.103870111196629
+
+TEST SET 50%
+Haskell file is Haskell1920_EnkelInformatica.csv
+
+Decision tree
+De gemiddelde accuraatheid is 0.7119130434782643
+De maximale accuraatheid 0.9130434782608695
+De minimale accuraatheid 0.391304347826087
+De standaardafweiking 0.08168967051244003
+
+Logistische regresie vlif oke
+De gemiddelde accuraatheid is 0.7672173913043527
+De maximale accuraatheid 0.9130434782608695
+De minimale accuraatheid 0.5652173913043478
+De standaardafweiking 0.06725349162761642
+
+Random Forest
+De gemiddelde accuraatheid is 0.7896521739130484
+De maximale accuraatheid 0.9130434782608695
+De minimale accuraatheid 0.43478260869565216
+De standaardafweiking 0.06092786028402922
+
+Extra tree
+De gemiddelde accuraatheid is 0.7921739130434835
+De maximale accuraatheid 0.9130434782608695
+De minimale accuraatheid 0.4782608695652174
+De standaardafweiking 0.06086335372033796
+
+adaBoost
+De gemiddelde accuraatheid is 0.7364347826086987
+De maximale accuraatheid 0.9565217391304348
+De minimale accuraatheid 0.43478260869565216
+De standaardafweiking 0.07857612830566613
+
+GradientBoosting
+De gemiddelde accuraatheid is 0.7149565217391334
+De maximale accuraatheid 0.9565217391304348
+De minimale accuraatheid 0.34782608695652173
+De standaardafweiking 0.08146652042925744
