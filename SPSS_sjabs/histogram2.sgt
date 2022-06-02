@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<template SPSS-Version="1.4" date="2022-06-01" description="" selectPath="87 84 5 6 7 97 98 10 12 13 17 29 33 47 900 36 37 38 40 43 45 46 " xmlns="http://www.ibm.com/software/analytics/spss/xml/visualization" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.ibm.com/software/analytics/spss/xml/visualization http://www.ibm.com/software/analytics/spss/xml/visualization/vizml-template-3.5.xsd">
+	<setAxisStyle categorical="false" role="x">
+		<axisLabelStyle>
+			<style color="#000000" color2="transparent" font-size="18pt" font-weight="bold" text-fit="false" visible="true"/>
+		</axisLabelStyle>
+		<label>Kansen</label>
+		<style color="#000000" stroke-width="0.5pt" visible="true"/>
+	</setAxisStyle>
+	<setAxisStyle categorical="false" role="y">
+		<axisLabelStyle>
+			<style color="#000000" color2="transparent" font-size="18pt" font-weight="bold" text-fit="false" visible="true"/>
+		</axisLabelStyle>
+		<label>Frequentie</label>
+		<style color="#000000" stroke-width="0.5pt" visible="true"/>
+	</setAxisStyle>
+	<addFrame count="1" type="title">
+		<label><style color2="transparent" coordinate="0" font-size="22pt" font-weight="bold" number="0" text-fit="false" visible="true"/>Histogram van de kansverdeling</label>
+	</addFrame>
+	<addFrame count="1" type="footnote">
+		<label><style color2="transparent" coordinate="0" font-size="14pt" number="0" text-fit="false" visible="true"/>p &lt; 0,5                                                                                                        p &gt; 0,5</label>
+	</addFrame>
+	<addFrame count="1" type="labelFrame">
+		<label><style color="#000000" color2="transparent" coordinate="0" number="0" visible="true"/></label>
+	</addFrame>
+	<addFrame count="2" type="labelFrame">
+		<label><style color="#000000" color2="transparent" coordinate="0" number="0" visible="true"/></label>
+	</addFrame>
+	<setAxisOpposite categorical="false" opposite="false" role="x"/>
+	<setAxisOpposite categorical="false" opposite="false" role="y"/>
+	<setAxisScale method="linear" role="x"/>
+	<setAxisScale method="linear" role="y"/>
+	<setTickLabelFormat categorical="false" derived="false" role="x">
+		<format minimumFractionDigits="2" minimumIntegerDigits="0" useGrouping="false"/>
+	</setTickLabelFormat>
+	<setTickLabelAngle categorical="false" derived="false" role="x"/>
+	<setTickLabelFormat categorical="false" derived="false" role="y"/>
+	<setTickLabelAngle categorical="false" derived="false" role="y"/>
+	<setAxisMajorTicks>
+		<majorTicks categorical="false" delta="auto" derived="false" position="inside" role="x">
+			<markStyle>
+				<style color="#aeaeae" stroke-width="1pt" visible="true"/>
+			</markStyle>
+			<tickLabelStyle>
+				<style color="#000000" font-size="18pt" text-fit="false" visible="true"/>
+			</tickLabelStyle>
+		</majorTicks>
+	</setAxisMajorTicks>
+	<setAxisMajorTicks>
+		<majorTicks categorical="false" delta="auto" derived="false" position="outside" role="y" styleOnly="false">
+			<gridLines>
+				<style color="#aeaeae" visible="true"/>
+			</gridLines>
+			<markStyle>
+				<style color="#aeaeae" stroke-width="1pt" visible="false"/>
+			</markStyle>
+			<tickLabelStyle>
+				<style color="#414141" font-size="18pt" text-fit="false" visible="true"/>
+			</tickLabelStyle>
+		</majorTicks>
+	</setAxisMajorTicks>
+	<setAxisMinorTicks>
+		<minorTicks categorical="false" derived="false" number="2" position="outside" role="x">
+			<markStyle>
+				<style color="#000000" visible="false"/>
+			</markStyle>
+		</minorTicks>
+	</setAxisMinorTicks>
+	<setAxisMinorTicks>
+		<minorTicks categorical="false" derived="false" number="2" position="outside" role="y">
+			<markStyle>
+				<style color="#000000" visible="false"/>
+			</markStyle>
+		</minorTicks>
+	</setAxisMinorTicks>
+	<setAxisMargin categorical="false" lowerMargin="5%" role="x" upperMargin="5%"/>
+	<setAxisMargin categorical="false" role="y" upperMargin="5%"/>
+	<setHistogramBinning/>
+	<addFrame count="1" type="statisticsSummary">
+		<style color="transparent" color2="transparent" visible="false"/>
+		<label><style color="#000000" color2="transparent" coordinate="0" font-size="16pt" font-weight="regular" number="0" text-fit="false" textAlignment="left" visible="true"/></label>
+	</addFrame>
+	<addFrame count="1" styleOnly="true" type="visualization">
+		<style color="#ffffff" color2="transparent" coordinate="0" number="0" visible="true"/>
+		<style coordinate="1" font-family="SansSerif" font-size="8pt" number="1" pattern="0" stroke-linecap="butt" text-fit="true" visible="true"/>
+	</addFrame>
+	<addFrame count="1" styleOnly="true" type="graph">
+		<style color="transparent" color2="transparent" visible="true"/>
+		<style color="#ffffff" color2="#000000" coordinate="1" number="1" visible="true"/>
+	</addFrame>
+	<addReferenceLine styleOnly="false" x="0.5" xcategorical="false">
+		<style color="#ed4b4b" stroke-width="1.5pt" visible="true" width="1.5pt"/>
+	</addReferenceLine>
+	<setStyle type="histogram">
+		<style color="#5a645e" color2="#ffffff" coordinate="0" depth="75%" pattern="0" stroke-width="1pt" visible="true" width="95%"/>
+	</setStyle>
+</template>

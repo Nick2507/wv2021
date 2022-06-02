@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<template SPSS-Version="1.4" date="2022-05-31" description="" selectPath="2 3 30 5 6 7 97 98 10 72 73 74 75 76 12 13 17 18 21 29 33 47 62 63 66 94 70 900 36 37 38 40 41 43 68 69 45 46 " xmlns="http://www.ibm.com/software/analytics/spss/xml/visualization" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.ibm.com/software/analytics/spss/xml/visualization http://www.ibm.com/software/analytics/spss/xml/visualization/vizml-template-3.5.xsd">
+	<setAxisStyle categorical="true" role="x">
+		<axisLabelStyle>
+			<style color="#000000" color2="transparent" font-size="20pt" font-weight="bold" labelLocationHorizontal="center" labelLocationVertical="center" text-fit="false" visible="true"/>
+		</axisLabelStyle>
+		<label>Modellen</label>
+		<style color="#000000" stroke-width="0.5pt" visible="true"/>
+	</setAxisStyle>
+	<setAxisStyle categorical="false" role="y">
+		<axisLabelStyle>
+			<style color="#000000" color2="transparent" font-size="20pt" font-weight="bold" labelLocationHorizontal="center" labelLocationVertical="center" text-fit="false" visible="true"/>
+		</axisLabelStyle>
+		<label>NK(%)</label>
+		<style color="#000000" stroke-width="0.5pt" visible="true"/>
+	</setAxisStyle>
+	<addFrame count="1" type="visualization">
+		<location bottom="559px" left="0px" right="849px" top="0px"/>
+		<style color="#ffffff" color2="transparent" coordinate="0" number="0" visible="true"/>
+		<style coordinate="1" font-family="SansSerif" font-size="8pt" number="1" pattern="0" stroke-linecap="butt" text-fit="true" visible="true"/>
+	</addFrame>
+	<addFrame count="1" type="graph">
+		<location bottom="94.275%" left="0.942%" right="99.529%" top="6%"/>
+		<style color="#ffffff" color2="transparent" visible="true"/>
+		<style color="#ffffff" color2="transparent" coordinate="1" number="1" visible="true"/>
+	</addFrame>
+	<addFrame count="1" type="title">
+		<location bottom="6.679%" left="1.885%" right="97.88%" top="0%"/>
+		<label><style color2="transparent" coordinate="0" font-size="20pt" font-weight="bold" number="0" text-fit="false" visible="true"/>2020 - 2021: Haskell</label>
+	</addFrame>
+	<addFrame count="1" type="labelFrame">
+		<location bottom="50.278%" left="11.19%" right="38.869%" top="44.341%"/>
+		<label><style coordinate="0" font-size="14pt" number="0" text-fit="false" visible="true"/>Ondergrens: slaag-%</label>
+	</addFrame>
+	<addFrame count="1" type="footnote">
+		<location bottom="91.592%" left="86.101%" right="96.702%" top="88.014%"/>
+		<label><style color2="transparent" coordinate="0" font-size="14pt" number="0" text-fit="false" visible="true"/>n = 100</label>
+	</addFrame>
+	<setAxisOpposite categorical="false" opposite="false" role="y"/>
+	<setTranspose transpose="false"/>
+	<setAxisScale method="linear" role="y"/>
+	<setTickLabelFormat categorical="false" derived="false" role="y"/>
+	<setTickLabelAngle categorical="false" derived="false" role="y"/>
+	<setAxisMajorTicks>
+		<majorTicks categorical="false" delta="auto" derived="false" position="cross" role="y" styleOnly="false">
+			<gridLines>
+				<style color="#aeaeae" visible="true"/>
+			</gridLines>
+			<markStyle>
+				<style color="#aeaeae" stroke-width="1pt" visible="true"/>
+			</markStyle>
+			<tickLabelStyle>
+				<style color="#000000" font-size="18pt" text-fit="false" visible="true"/>
+			</tickLabelStyle>
+		</majorTicks>
+	</setAxisMajorTicks>
+	<setAxisMinorTicks>
+		<minorTicks categorical="false" derived="false" number="2" position="cross" role="y" styleOnly="false">
+			<gridLines>
+				<style color="#000000" visible="true"/>
+			</gridLines>
+			<markStyle>
+				<style color="#000000" visible="false"/>
+			</markStyle>
+		</minorTicks>
+	</setAxisMinorTicks>
+	<setAxisMargin categorical="false" lowerMargin="5%" role="y" upperMargin="5%"/>
+	<setAxisOpposite categorical="true" opposite="false" role="x"/>
+	<setAxisMajorTicks>
+		<majorTicks categorical="true" position="cross" role="x" styleOnly="false">
+			<gridLines>
+				<style color="#aeaeae" visible="true"/>
+			</gridLines>
+			<markStyle>
+				<style color="#000000" stroke-width="4pt" visible="true"/>
+			</markStyle>
+			<tickLabelStyle>
+				<style color="#000000" font-size="18pt" text-fit="false" visible="true"/>
+			</tickLabelStyle>
+		</majorTicks>
+	</setAxisMajorTicks>
+	<setTickLabelAngle categorical="true" role="x"/>
+	<setTickLabelFrequency categorical="true" role="x"/>
+	<setAxisMargin categorical="true" lowerMargin="5%" role="x" upperMargin="5%"/>
+	<setAxisMinorTicks>
+		<minorTicks categorical="true" role="x" styleOnly="false">
+			<gridLines>
+				<style color="#000000" visible="true"/>
+			</gridLines>
+		</minorTicks>
+	</setAxisMinorTicks>
+	<addDataLabels colorByMarker="false" connectingLines="false" hidden="false" showCollidingLabels="false">
+		<style color="#000000" font-size="8pt" font-style="regular" font-weight="regular" number="0" padding="2px" stroke-width="0.5pt" visible="visible"/>
+		<style color="transparent" color2="transparent" coordinate="1" number="1" visible="true"/>
+		<labeling variable="casenum"/>
+	</addDataLabels>
+	<addReferenceLine styleOnly="false" y="0.615" ycategorical="false">
+		<style color="#d70033" stroke-width="2pt" visible="true" width="2pt"/>
+	</addReferenceLine>
+	<setStyle subtype="medianStyle" type="schema">
+		<style color="#000000" depth="75%" stroke-linecap="butt" stroke-width="1.5pt" visible="true"/>
+	</setStyle>
+	<setStyle subtype="outlierStyle" type="schema">
+		<style color="transparent" color2="#000000" size="5pt" symbol="circle" visible="true"/>
+	</setStyle>
+	<setStyle subtype="hingeStyle" type="schema">
+		<style color="#d0ca8c" visible="true"/>
+	</setStyle>
+	<setStyle subtype="fenceStyle" type="schema">
+		<style color="#1192e8" color2="#000000" depth="75%" stroke-linecap="round" stroke-width="2pt" symbol="ibeam" visible="true"/>
+	</setStyle>
+	<setStyle subtype="extremeStyle" type="schema">
+		<style color="#000000" color2="#000000" size="5pt" symbol="flower" visible="true"/>
+	</setStyle>
+	<setStyle subtype="simple" type="schema">
+		<style color="#1192e8" depth="75%" pattern="0" size="25%" stroke-width="0px" visible="true"/>
+	</setStyle>
+	<setStyle subtype="simple" type="schema">
+		<style color="#1192e8" coordinate="0" depth="75%" pattern="0" size="25%" stroke-width="0px" visible="true"/>
+	</setStyle>
+	<setStyle>
+		<style color="#000000" color2="transparent" font-size="8pt" font-weight="regular" stroke-width="0.5pt" visible="true"/>
+	</setStyle>
+</template>

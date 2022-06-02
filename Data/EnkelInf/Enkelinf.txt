@@ -1,0 +1,88 @@
+2016-2019 heeft geen opleiding kolom
+2020-2021 is er maar 1 student met een opleiding bij
+2021 - 2022 heeft een lege tabel voor users
+
+VIF OK bij AllLingos
+                           Attribute  VIF Scores
+0               avDiffratioCompleted    2.558847
+1                   avdiffDeadline.1    1.173198
+2                   nmbrDecemberSubs    2.917220
+3                    nmbrJanuarySubs    3.832200
+4                        nmbrCheat.1    3.868038
+5        nmbDaySubsOnTImeCompleted.1    2.943546
+6              nbMorningCompleteSubs    3.333743
+7                       nmbNightSubs    2.975119
+8                    nmbrOctoberSubs    4.886548
+9                     avNmbrShort_05    3.375864
+10              avNmbrQuiteShort_075    4.811968
+11              avNmbrAroundSol_0.25    3.523749
+12  avStyleLengthCompltedSubsJanuary    2.248351
+13  avStyleLengthCompltedSubsOctober    2.983683
+
+Beste bij AllLingos
+['avDiffratioCompleted', 'avdiffDeadline.1', 'nmbrCheat.1', 'nmbDaySubsOnTImeCompleted.1', 
+'nmbNightSubs', 'nmbrOctoberSubs', 'avNmbrQuiteShort_075']
+
+
+
+VIF OK bij Haskell
+                            Attribute  VIF Scores
+0                av_CompletedPrevYears    3.262650
+1   av_StyleLengthCompletedImportance2    4.233195
+2   av_StyleLengthCompletedImportance3    2.398767
+3           nb_PointsLast2WeeksHaskell    2.026238
+4                     avdiffDeadline.1    1.282107
+5                     nmbrDecemberSubs    3.215677
+6                 nmbMorningSubsOnTIme    2.547024
+7                   nmbNightSubsOnTIme    3.561560
+8                          nmbrCheat.1    3.949128
+9                    nmbrCheatOnTime.1    2.434757
+10      nmbMorningubsOnTImeCompleted.1    2.614978
+11         nmbDaySubsOnTImeCompleted.1    3.511090
+12               nbMorningCompleteSubs    2.541250
+13                        nmbNightSubs    4.162184
+14                      avNmbrShort_05    2.901433
+15                avNmbrQuiteShort_075    4.613673
+16                  avNmbrQuiteLong_15    3.045750
+17                avNmbrAroundSol_0.25    3.496517
+18    avStyleLengthCompltedSubsOctober    3.482594
+19                       avStyleLength    4.124428
+
+Beste bij Haskell
+['nb_PointsLast2WeeksHaskell', 'avdiffDeadline.1', 'nmbMorningSubsOnTIme', 
+'nmbNightSubsOnTIme', 'nmbrCheat.1', 'nmbrCheatOnTime.1', 
+'nmbMorningubsOnTImeCompleted.1', 'nmbDaySubsOnTImeCompleted.1',
+ 'avNmbrShort_05', 'avNmbrAroundSol_0.25']
+
+
+VIF OK bij Prolog
+                           Attribute  VIF Scores
+0                nb_MockSuccessTests    1.714243
+1                   avdiffDeadline.1    1.407409
+2                   nmbrDecemberSubs    3.927105
+3                 nmbNightSubsOnTIme    4.107498
+4                        nmbrCheat.1    3.783396
+5                  nmbrCheatOnTime.1    3.660488
+6     nmbMorningubsOnTImeCompleted.1    1.325884
+7      nmbNightSubsOnTImeCompleted.1    3.101906
+8              nbMorningCompleteSubs    2.687917
+9                       nmbNightSubs    4.039854
+10                    avNmbrShort_05    2.923488
+11              avNmbrQuiteShort_075    4.326022
+12                avNmbrQuiteLong_15    3.024280
+13              avNmbrAroundSol_0.25    3.549564
+14  avStyleLengthCompltedSubsJanuary    3.307167
+15                     avStyleLength    3.454308
+
+Beste bij Prolog
+['nb_MockSuccessTests', 'avdiffDeadline.1', 'nmbNightSubsOnTIme', 'nmbMorningubsOnTImeCompleted.1', 
+'nmbNightSubsOnTImeCompleted.1', 'nmbNightSubs', 'avNmbrShort_05', 'avNmbrQuiteShort_075']
+
+
+
+
+
+
+
+
+
