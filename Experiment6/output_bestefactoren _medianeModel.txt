@@ -1,0 +1,1981 @@
+C:\Users\nisse\PycharmProjects\logRegr\Scripts\python.exe C:/Users/nisse/PycharmProjects/logRegr/factorenanalyse.py
+Haskell 2021 file is C:\Users\nisse\Desktop\Finale paper WV\2021PerLingo\2021_haskell.csv
+
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 324.94it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 270.77it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 999.60it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.61it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 112.47it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 571.31it/s]
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix:   0%|          | 0/13 [00:00<?, ?it/s]length of oversampled data is  162
+Number of no subscription in oversampled data 81
+Number of subscription 81
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 324.93it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 269.29it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 572.52it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.60it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 115.35it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 500.19it/s]
+length of oversampled data is  158
+Number of no subscription in oversampled data 79
+Number of subscription 79
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.26it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 295.39it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 499.98it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.58it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 116.85it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 570.83it/s]
+length of oversampled data is  170
+Number of no subscription in oversampled data 85
+Number of subscription 85
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.26it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 282.60it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 1000.07it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.46it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 109.73it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 666.61it/s]
+length of oversampled data is  160
+Number of no subscription in oversampled data 80
+Number of subscription 80
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 324.92it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 295.39it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 499.86it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.20it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 113.90it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 571.45it/s]
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix:   0%|          | 0/13 [00:00<?, ?it/s]length of oversampled data is  162
+Number of no subscription in oversampled data 81
+Number of subscription 81
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.27it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 288.81it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 499.92it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.59it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 112.47it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 499.93it/s]
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix:   0%|          | 0/13 [00:00<?, ?it/s]length of oversampled data is  162
+Number of no subscription in oversampled data 81
+Number of subscription 81
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 342.03it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 276.54it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 499.80it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.26it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 113.90it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 570.30it/s]
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix:   0%|          | 0/13 [00:00<?, ?it/s]length of oversampled data is  164
+Number of no subscription in oversampled data 82
+Number of subscription 82
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.36it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 270.86it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 496.13it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.55it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 109.74it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 666.05it/s]
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix:   0%|          | 0/13 [00:00<?, ?it/s]length of oversampled data is  156
+Number of no subscription in oversampled data 78
+Number of subscription 78
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.20it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 282.50it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 501.41it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.58it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 119.98it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 665.87it/s]
+length of oversampled data is  156
+Number of no subscription in oversampled data 78
+Number of subscription 78
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 341.98it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 282.50it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 999.36it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.40it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 113.90it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 498.97it/s]
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+length of oversampled data is  166
+Number of no subscription in oversampled data 83
+Number of subscription 83
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.20it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 282.55it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 499.86it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.59it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 118.40it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 571.28it/s]
+length of oversampled data is  170
+Number of no subscription in oversampled data 85
+Number of subscription 85
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 341.94it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 276.53it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 499.56it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.61it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 116.87it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 665.92it/s]
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix:   0%|          | 0/13 [00:00<?, ?it/s]length of oversampled data is  170
+Number of no subscription in oversampled data 85
+Number of subscription 85
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 341.81it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 295.39it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 500.04it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 499.88it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 118.40it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 666.40it/s]
+length of oversampled data is  152
+Number of no subscription in oversampled data 76
+Number of subscription 76
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.31it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 282.54it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 500.04it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 499.85it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 118.36it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 500.50it/s]
+length of oversampled data is  166
+Number of no subscription in oversampled data 83
+Number of subscription 83
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.26it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 276.53it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 333.25it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.59it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 112.47it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 500.07it/s]
+length of oversampled data is  160
+Number of no subscription in oversampled data 80
+Number of subscription 80
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.26it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 282.55it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 499.98it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.59it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 111.08it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 500.30it/s]
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix:   0%|          | 0/13 [00:00<?, ?it/s]length of oversampled data is  170
+Number of no subscription in oversampled data 85
+Number of subscription 85
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.26it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 265.24it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 499.80it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.27it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 112.47it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 499.78it/s]
+length of oversampled data is  168
+Number of no subscription in oversampled data 84
+Number of subscription 84
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 324.95it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 270.78it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 499.86it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.27it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 113.90it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 667.27it/s]
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix:   0%|          | 0/13 [00:00<?, ?it/s]length of oversampled data is  160
+Number of no subscription in oversampled data 80
+Number of subscription 80
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.21it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 276.62it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 999.60it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.59it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 112.47it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 498.89it/s]
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix:   0%|          | 0/13 [00:00<?, ?it/s]length of oversampled data is  164
+Number of no subscription in oversampled data 82
+Number of subscription 82
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 324.94it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 276.52it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 499.98it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.33it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 118.28it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 571.37it/s]
+length of oversampled data is  166
+Number of no subscription in oversampled data 83
+Number of subscription 83
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 325.00it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 276.46it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 499.86it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.69it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 95.73it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 444.30it/s]
+length of oversampled data is  166
+Number of no subscription in oversampled data 83
+Number of subscription 83
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 295.40it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 276.49it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 498.31it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.55it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 109.75it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 444.28it/s]
+length of oversampled data is  164
+Number of no subscription in oversampled data 82
+Number of subscription 82
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 316.95it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 276.54it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 499.86it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.69it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 109.74it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 570.29it/s]
+length of oversampled data is  160
+Number of no subscription in oversampled data 80
+Number of subscription 80
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 332.97it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 270.83it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 501.23it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.40it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 105.86it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 444.69it/s]
+length of oversampled data is  172
+Number of no subscription in oversampled data 86
+Number of subscription 86
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.15it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 270.75it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 996.04it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 449.82it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 112.48it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 571.04it/s]
+length of oversampled data is  168
+Number of no subscription in oversampled data 84
+Number of subscription 84
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.29it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 276.53it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 499.50it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 471.71it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 113.90it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 499.32it/s]
+length of oversampled data is  170
+Number of no subscription in oversampled data 85
+Number of subscription 85
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 324.93it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 282.55it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 999.83it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 449.60it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 109.66it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 499.90it/s]
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix:   0%|          | 0/13 [00:00<?, ?it/s]length of oversampled data is  172
+Number of no subscription in oversampled data 86
+Number of subscription 86
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 342.03it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 259.94it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 499.56it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 449.96it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 107.12it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 500.24it/s]
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix:   0%|          | 0/13 [00:00<?, ?it/s]length of oversampled data is  162
+Number of no subscription in oversampled data 81
+Number of subscription 81
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.26it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 270.77it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 997.46it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.60it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 115.38it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 499.32it/s]
+length of oversampled data is  168
+Number of no subscription in oversampled data 84
+Number of subscription 84
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.26it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 265.25it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 990.16it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.46it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 111.09it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 499.87it/s]
+length of oversampled data is  162
+Number of no subscription in oversampled data 81
+Number of subscription 81
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 341.97it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 276.53it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 499.86it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.75it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 107.12it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 500.29it/s]
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+length of oversampled data is  158
+Number of no subscription in oversampled data 79
+Number of subscription 79
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.24it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 282.55it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 499.86it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.58it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 116.86it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 570.87it/s]
+length of oversampled data is  160
+Number of no subscription in oversampled data 80
+Number of subscription 80
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.26it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 288.83it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 499.92it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 499.92it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 119.95it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 571.63it/s]
+length of oversampled data is  152
+Number of no subscription in oversampled data 76
+Number of subscription 76
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.30it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 287.79it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 546.06it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.69it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 116.86it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 799.41it/s]
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+length of oversampled data is  162
+Number of no subscription in oversampled data 81
+Number of subscription 81
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 342.02it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 288.82it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 501.23it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.68it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 112.49it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 499.92it/s]
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+length of oversampled data is  158
+Number of no subscription in oversampled data 79
+Number of subscription 79
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.19it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 270.78it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 999.83it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.59it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 113.90it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 571.33it/s]
+length of oversampled data is  160
+Number of no subscription in oversampled data 80
+Number of subscription 80
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.38it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 270.77it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 500.69it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.21it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 113.90it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 572.37it/s]
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix:   0%|          | 0/13 [00:00<?, ?it/s]length of oversampled data is  148
+Number of no subscription in oversampled data 74
+Number of subscription 74
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.26it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 270.73it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 500.22it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 499.92it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 111.07it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 571.31it/s]
+length of oversampled data is  156
+Number of no subscription in oversampled data 78
+Number of subscription 78
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 324.93it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 270.78it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 999.60it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.76it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 109.73it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 571.37it/s]
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix:   0%|          | 0/13 [00:00<?, ?it/s]length of oversampled data is  164
+Number of no subscription in oversampled data 82
+Number of subscription 82
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 332.25it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 276.53it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 499.86it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.58it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 112.48it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 553.25it/s]
+length of oversampled data is  162
+Number of no subscription in oversampled data 81
+Number of subscription 81
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.24it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 282.54it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 499.92it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.55it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 113.92it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 499.98it/s]
+length of oversampled data is  154
+Number of no subscription in oversampled data 77
+Number of subscription 77
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.26it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 265.25it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 499.92it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.58it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 113.90it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 399.82it/s]
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix:   0%|          | 0/13 [00:00<?, ?it/s]length of oversampled data is  156
+Number of no subscription in oversampled data 78
+Number of subscription 78
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.14it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 265.28it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 501.83it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.74it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 113.89it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 500.19it/s]
+length of oversampled data is  162
+Number of no subscription in oversampled data 81
+Number of subscription 81
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.18it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 270.77it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 499.80it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.62it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 112.47it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 491.15it/s]
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+length of oversampled data is  172
+Number of no subscription in oversampled data 86
+Number of subscription 86
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.26it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 265.06it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 501.59it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.91it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 109.75it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 499.87it/s]
+length of oversampled data is  160
+Number of no subscription in oversampled data 80
+Number of subscription 80
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 325.01it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 254.91it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 499.86it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.58it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 113.90it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 571.37it/s]
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix:   0%|          | 0/13 [00:00<?, ?it/s]length of oversampled data is  158
+Number of no subscription in oversampled data 79
+Number of subscription 79
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 341.93it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 276.53it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 499.74it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.57it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 113.90it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 666.53it/s]
+length of oversampled data is  154
+Number of no subscription in oversampled data 77
+Number of subscription 77
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.21it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 270.77it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 998.17it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.59it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 109.65it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 571.61it/s]
+length of oversampled data is  164
+Number of no subscription in oversampled data 82
+Number of subscription 82
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.26it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 276.53it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 998.41it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 449.89it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 119.97it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 444.37it/s]
+length of oversampled data is  158
+Number of no subscription in oversampled data 79
+Number of subscription 79
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.20it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 282.55it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 499.62it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.57it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 119.97it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 500.23it/s]
+length of oversampled data is  150
+Number of no subscription in oversampled data 75
+Number of subscription 75
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.26it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 276.53it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 499.92it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.59it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 118.40it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 488.06it/s]
+length of oversampled data is  152
+Number of no subscription in oversampled data 76
+Number of subscription 76
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.15it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 288.82it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 499.86it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.57it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 111.65it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 666.56it/s]
+length of oversampled data is  158
+Number of no subscription in oversampled data 79
+Number of subscription 79
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.20it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 288.81it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 334.02it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.75it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 113.90it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 571.18it/s]
+length of oversampled data is  176
+Number of no subscription in oversampled data 88
+Number of subscription 88
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.25it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 288.82it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 999.60it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.58it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 116.84it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 570.79it/s]
+length of oversampled data is  166
+Number of no subscription in oversampled data 83
+Number of subscription 83
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.26it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 270.81it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 499.80it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.58it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 118.39it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 571.78it/s]
+length of oversampled data is  158
+Number of no subscription in oversampled data 79
+Number of subscription 79
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.25it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 265.18it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 499.92it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.58it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 116.86it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 666.34it/s]
+length of oversampled data is  164
+Number of no subscription in oversampled data 82
+Number of subscription 82
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 342.01it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 270.77it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 499.86it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.58it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 112.46it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 500.59it/s]
+length of oversampled data is  158
+Number of no subscription in oversampled data 79
+Number of subscription 79
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.26it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 276.53it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 499.86it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 449.89it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 113.90it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 569.90it/s]
+length of oversampled data is  162
+Number of no subscription in oversampled data 81
+Number of subscription 81
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 325.02it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 270.67it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 499.74it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.59it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 119.96it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 572.82it/s]
+length of oversampled data is  154
+Number of no subscription in oversampled data 77
+Number of subscription 77
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 324.93it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 282.51it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 499.50it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.58it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 109.73it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 571.02it/s]
+length of oversampled data is  168
+Number of no subscription in oversampled data 84
+Number of subscription 84
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.25it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 265.24it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 499.86it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.58it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 113.90it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 571.90it/s]
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+length of oversampled data is  158
+Number of no subscription in oversampled data 79
+Number of subscription 79
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.25it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 295.39it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 1000.07it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 499.88it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 118.42it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 570.56it/s]
+length of oversampled data is  166
+Number of no subscription in oversampled data 83
+Number of subscription 83
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 309.41it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 284.52it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 496.84it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.57it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 115.35it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 571.98it/s]
+length of oversampled data is  158
+Number of no subscription in oversampled data 79
+Number of subscription 79
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 342.11it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 270.78it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 999.36it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.59it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 115.37it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 570.75it/s]
+length of oversampled data is  162
+Number of no subscription in oversampled data 81
+Number of subscription 81
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 342.01it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 288.82it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 503.10it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 428.72it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 118.38it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 571.72it/s]
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+length of oversampled data is  176
+Number of no subscription in oversampled data 88
+Number of subscription 88
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.26it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 270.78it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 499.56it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.58it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 109.73it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 500.59it/s]
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix:   0%|          | 0/13 [00:00<?, ?it/s]length of oversampled data is  156
+Number of no subscription in oversampled data 78
+Number of subscription 78
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.26it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 276.54it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 499.80it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.58it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 115.36it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 571.29it/s]
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+length of oversampled data is  162
+Number of no subscription in oversampled data 81
+Number of subscription 81
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 324.93it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 276.54it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 1000.79it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.56it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 119.87it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 572.21it/s]
+length of oversampled data is  162
+Number of no subscription in oversampled data 81
+Number of subscription 81
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.26it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 288.82it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 499.80it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.22it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 107.13it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 570.40it/s]
+length of oversampled data is  156
+Number of no subscription in oversampled data 78
+Number of subscription 78
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.32it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 270.77it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 334.69it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.59it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 104.63it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 571.29it/s]
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix:   0%|          | 0/13 [00:00<?, ?it/s]length of oversampled data is  156
+Number of no subscription in oversampled data 78
+Number of subscription 78
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 324.92it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 276.53it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 499.86it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.57it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 107.12it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 665.52it/s]
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix:   0%|          | 0/13 [00:00<?, ?it/s]length of oversampled data is  156
+Number of no subscription in oversampled data 78
+Number of subscription 78
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.27it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 282.48it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 500.04it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.58it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 107.09it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 500.98it/s]
+length of oversampled data is  166
+Number of no subscription in oversampled data 83
+Number of subscription 83
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.20it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 263.96it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 500.04it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 449.90it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 115.36it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 571.26it/s]
+length of oversampled data is  164
+Number of no subscription in oversampled data 82
+Number of subscription 82
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.26it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 282.55it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 499.86it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.56it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 107.13it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 571.41it/s]
+length of oversampled data is  156
+Number of no subscription in oversampled data 78
+Number of subscription 78
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 324.81it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 282.55it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 499.80it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 500.09it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 109.64it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 571.28it/s]
+length of oversampled data is  156
+Number of no subscription in oversampled data 78
+Number of subscription 78
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.26it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 270.77it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 500.63it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 500.28it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 118.39it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 499.81it/s]
+length of oversampled data is  170
+Number of no subscription in oversampled data 85
+Number of subscription 85
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.27it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 294.15it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 552.83it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.61it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 116.84it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 571.28it/s]
+length of oversampled data is  162
+Number of no subscription in oversampled data 81
+Number of subscription 81
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.13it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 288.85it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 499.56it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.62it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 121.58it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 571.26it/s]
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+length of oversampled data is  174
+Number of no subscription in oversampled data 87
+Number of subscription 87
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.27it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 295.09it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 499.86it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.94it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 118.40it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 665.89it/s]
+length of oversampled data is  160
+Number of no subscription in oversampled data 80
+Number of subscription 80
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.14it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 276.22it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 999.83it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.62it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 113.91it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 570.61it/s]
+length of oversampled data is  156
+Number of no subscription in oversampled data 78
+Number of subscription 78
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.31it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 276.53it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 499.92it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 471.94it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 118.40it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 572.31it/s]
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+length of oversampled data is  162
+Number of no subscription in oversampled data 81
+Number of subscription 81
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.28it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 282.51it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 500.16it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.61it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 113.90it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 801.05it/s]
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix:   0%|          | 0/13 [00:00<?, ?it/s]length of oversampled data is  168
+Number of no subscription in oversampled data 84
+Number of subscription 84
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.25it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 270.86it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 499.80it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.60it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 116.86it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 666.16it/s]
+length of oversampled data is  164
+Number of no subscription in oversampled data 82
+Number of subscription 82
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.22it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 276.50it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 499.80it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.58it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 118.39it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 500.08it/s]
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix:   0%|          | 0/13 [00:00<?, ?it/s]length of oversampled data is  152
+Number of no subscription in oversampled data 76
+Number of subscription 76
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.21it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 276.53it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 499.98it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.60it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 115.37it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 571.66it/s]
+length of oversampled data is  156
+Number of no subscription in oversampled data 78
+Number of subscription 78
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.26it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 282.51it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 499.80it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.59it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 112.49it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 571.37it/s]
+length of oversampled data is  164
+Number of no subscription in oversampled data 82
+Number of subscription 82
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.34it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 265.24it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 499.86it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.57it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 111.09it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 499.84it/s]
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+length of oversampled data is  154
+Number of no subscription in oversampled data 77
+Number of subscription 77
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 324.93it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 270.78it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 499.80it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 449.91it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 111.09it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 500.07it/s]
+length of oversampled data is  164
+Number of no subscription in oversampled data 82
+Number of subscription 82
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 341.89it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 276.53it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 499.92it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.58it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 112.50it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 499.89it/s]
+length of oversampled data is  164
+Number of no subscription in oversampled data 82
+Number of subscription 82
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.32it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 270.77it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 499.98it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.57it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 115.37it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 571.00it/s]
+length of oversampled data is  160
+Number of no subscription in oversampled data 80
+Number of subscription 80
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.21it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 276.53it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 999.12it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.58it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 111.09it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 665.87it/s]
+length of oversampled data is  156
+Number of no subscription in oversampled data 78
+Number of subscription 78
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.22it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 259.94it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 499.50it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.59it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 112.47it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 571.47it/s]
+length of oversampled data is  168
+Number of no subscription in oversampled data 84
+Number of subscription 84
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.21it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 282.53it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 499.86it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.58it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 116.87it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 570.87it/s]
+length of oversampled data is  156
+Number of no subscription in oversampled data 78
+Number of subscription 78
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.27it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 276.53it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 499.92it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.56it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 111.09it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 571.90it/s]
+length of oversampled data is  166
+Number of no subscription in oversampled data 83
+Number of subscription 83
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.22it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 276.53it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 499.92it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 499.90it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 116.87it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 570.30it/s]
+length of oversampled data is  160
+Number of no subscription in oversampled data 80
+Number of subscription 80
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.19it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 270.79it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 500.69it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.53it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 112.48it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 499.66it/s]
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix:   0%|          | 0/13 [00:00<?, ?it/s]length of oversampled data is  166
+Number of no subscription in oversampled data 83
+Number of subscription 83
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 324.93it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 254.84it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 499.74it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.60it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 113.90it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 499.77it/s]
+length of oversampled data is  154
+Number of no subscription in oversampled data 77
+Number of subscription 77
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.27it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 265.18it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 503.28it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.58it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 109.66it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 571.74it/s]
+length of oversampled data is  164
+Number of no subscription in oversampled data 82
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix:   0%|          | 0/13 [00:00<?, ?it/s]Number of subscription 82
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 333.26it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 265.28it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 500.16it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.58it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 111.09it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 572.43it/s]
+length of oversampled data is  160
+Number of no subscription in oversampled data 80
+Number of subscription 80
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+dist_matrix: 100%|##########| 13/13 [00:00<00:00, 324.92it/s]
+synth_matrix: 100%|##########| 13/13 [00:00<00:00, 276.57it/s]
+r_index: 100%|##########| 1/1 [00:00<00:00, 498.08it/s]
+dist_matrix: 100%|##########| 9/9 [00:00<00:00, 473.57it/s]
+synth_matrix: 100%|##########| 9/9 [00:00<00:00, 113.90it/s]
+r_index: 100%|##########| 4/4 [00:00<00:00, 572.23it/s]
+length of oversampled data is  162
+Number of no subscription in oversampled data 81
+Number of subscription 81
+Proportion of no subscription data in oversampled data is  0.5
+Proportion of subscription data in oversampled data is  0.5
+C:\Users\nisse\PycharmProjects\logRegr\lib\site-packages\sklearn\linear_model\_logistic.py:444: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+
+Logistische regresie vlif oke
+De gemiddelde accuraatheid is 0.7318604651162792
+De maximale accuraatheid 0.9069767441860465
+De minimale accuraatheid 0.5813953488372093
+De standaardafweiking 0.054979715026172264
+De mediane accuraatheid is 0.7209302325581395
+Optimization terminated successfully.
+         Current function value: 0.363347
+         Iterations 9
+                                   Results: Logit
+====================================================================================
+Model:                     Logit                  Pseudo R-squared:       0.463     
+Dependent Variable:        BinaryScore            AIC:                    115.7435  
+Date:                      2022-06-01 14:50       BIC:                    147.2014  
+No. Observations:          129                    Log-Likelihood:         -46.872   
+Df Model:                  10                     LL-Null:                -87.355   
+Df Residuals:              118                    LLR p-value:            3.2460e-13
+Converged:                 1.0000                 Scale:                  1.0000    
+No. Iterations:            9.0000                                                   
+------------------------------------------------------------------------------------
+                                      Coef.  Std.Err.    z    P>|z|   [0.025  0.975]
+------------------------------------------------------------------------------------
+av_CompletedImportance2SubsDiffRatio -0.3072   0.3042 -1.0099 0.3126 -0.9035  0.2890
+nb_Importance2SuccessTests            0.0047   0.0022  2.1505 0.0315  0.0004  0.0089
+nb_completed'Extra'Subs               0.0153   0.1237  0.1236 0.9016 -0.2272  0.2578
+nb_PointsLast2WeeksHaskell           -0.0045   0.0033 -1.3470 0.1780 -0.0111  0.0021
+nmbNightSubsOnTIme                   -0.0177   0.0198 -0.8974 0.3695 -0.0565  0.0210
+nmbrCheatOnTime.1                     0.0543   0.1620  0.3354 0.7374 -0.2632  0.3719
+nmbMorningubsOnTImeCompleted.1        0.3348   0.2546  1.3149 0.1886 -0.1642  0.8338
+nbMorningCompleteSubs                -0.0763   0.0338 -2.2563 0.0240 -0.1426 -0.0100
+nbNightCompleteSubs                  -0.0132   0.0547 -0.2405 0.8100 -0.1203  0.0940
+nmbrOctoberSubs                      -0.0204   0.0068 -3.0082 0.0026 -0.0337 -0.0071
+avStyleLengthCompltedSubsJanuary      0.0026   0.0007  3.6445 0.0003  0.0012  0.0039
+====================================================================================
+
+\begin{table}
+\caption{Results: Logit}
+\label{}
+\begin{center}
+\begin{tabular}{llll}
+\hline
+Model:              & Logit            & Pseudo R-squared: & 0.463       \\
+Dependent Variable: & BinaryScore      & AIC:              & 115.7435    \\
+Date:               & 2022-06-01 14:50 & BIC:              & 147.2014    \\
+No. Observations:   & 129              & Log-Likelihood:   & -46.872     \\
+Df Model:           & 10               & LL-Null:          & -87.355     \\
+Df Residuals:       & 118              & LLR p-value:      & 3.2460e-13  \\
+Converged:          & 1.0000           & Scale:            & 1.0000      \\
+No. Iterations:     & 9.0000           &                   &             \\
+\hline
+\end{tabular}
+\end{center}
+
+\begin{center}
+\begin{tabular}{lrrrrrr}
+\hline
+                                      &   Coef. & Std.Err. &       z & P$> |$z$|$ &  [0.025 &  0.975]  \\
+\hline
+av\_CompletedImportance2SubsDiffRatio & -0.3072 &   0.3042 & -1.0099 &      0.3126 & -0.9035 &  0.2890  \\
+nb\_Importance2SuccessTests           &  0.0047 &   0.0022 &  2.1505 &      0.0315 &  0.0004 &  0.0089  \\
+nb\_completed'Extra'Subs              &  0.0153 &   0.1237 &  0.1236 &      0.9016 & -0.2272 &  0.2578  \\
+nb\_PointsLast2WeeksHaskell           & -0.0045 &   0.0033 & -1.3470 &      0.1780 & -0.0111 &  0.0021  \\
+nmbNightSubsOnTIme                    & -0.0177 &   0.0198 & -0.8974 &      0.3695 & -0.0565 &  0.0210  \\
+nmbrCheatOnTime.1                     &  0.0543 &   0.1620 &  0.3354 &      0.7374 & -0.2632 &  0.3719  \\
+nmbMorningubsOnTImeCompleted.1        &  0.3348 &   0.2546 &  1.3149 &      0.1886 & -0.1642 &  0.8338  \\
+nbMorningCompleteSubs                 & -0.0763 &   0.0338 & -2.2563 &      0.0240 & -0.1426 & -0.0100  \\
+nbNightCompleteSubs                   & -0.0132 &   0.0547 & -0.2405 &      0.8100 & -0.1203 &  0.0940  \\
+nmbrOctoberSubs                       & -0.0204 &   0.0068 & -3.0082 &      0.0026 & -0.0337 & -0.0071  \\
+avStyleLengthCompltedSubsJanuary      &  0.0026 &   0.0007 &  3.6445 &      0.0003 &  0.0012 &  0.0039  \\
+\hline
+\end{tabular}
+\end{center}
+\end{table}
+
+probabilities for SPSS
+
+Process finished with exit code 0
